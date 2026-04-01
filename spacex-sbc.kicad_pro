@@ -632,6 +632,50 @@
     [
       "2cb83ae2-abb4-4908-af16-d6e3533577eb",
       "Root"
+    ],
+    [
+      "830d0ff2-6cd8-43c9-9394-994fc144405d",
+      "SoC"
+    ],
+    [
+      "dc110b2e-415d-412f-a42d-a14a4e540bc2",
+      "RAM"
+    ],
+    [
+      "f0f01e93-37ca-4d9b-b962-624941e092bb",
+      "Flash"
+    ],
+    [
+      "f17e4b62-6417-45b4-82aa-b99f8acce4d8",
+      "Power"
+    ],
+    [
+      "5f0d0969-2f6e-4072-9972-1a1dcb6fecb5",
+      "Analog"
+    ],
+    [
+      "cb671711-df62-4cdd-841f-0ce0736b26ab",
+      "Digital"
+    ],
+    [
+      "db762c08-ed28-481b-bb8e-6a94392b2bd3",
+      "CAN"
+    ],
+    [
+      "a571b08f-5766-405b-b597-8d8a29ddf032",
+      "MX34"
+    ],
+    [
+      "9b87393b-775d-496b-ba93-7eb2b72d78e2",
+      "RTC"
+    ],
+    [
+      "13edb116-aef5-43c4-b2db-cfa7dbe1a95e",
+      "Pi Header"
+    ],
+    [
+      "87a86dca-115b-4d5e-b3bc-b34524cefc4a",
+      "RS232"
     ]
   ],
   "text_variables": {}

@@ -1,0 +1,318 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "d2fba2ec-67f5-4b85-ad86-d3a066c4f9b6")
+	(paper "A4")
+	(title_block
+		(title "SpaceX SBC")
+		(company "Austin Driggs")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 139.7 113.028) (xy 139.7 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9499de6f-b0ef-404c-8f1b-9941b6dbc6d7")
+	)
+	(wire
+		(pts
+			(xy 139.7 97.788) (xy 139.7 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc8d0eee-f70c-4e06-b462-85e66701ccde")
+	)
+	(global_label "ANALOG_10"
+		(shape bidirectional)
+		(at 139.7 105.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "13ba20ec-4710-4248-bec7-845b443c5da6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.3194 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ANALOG_04"
+		(shape bidirectional)
+		(at 139.7 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "234991ca-1afb-41b6-b1f8-86e8057d7cd6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.3194 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ANALOG_02"
+		(shape bidirectional)
+		(at 139.7 85.09 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4044c6d6-a82a-433e-96fb-57d6eb37c3ea")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.3194 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ANALOG_09"
+		(shape bidirectional)
+		(at 139.7 102.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "8251122a-c6b3-437c-a9c1-32bedc907131")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.3194 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ANALOG_06"
+		(shape bidirectional)
+		(at 139.7 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "926afd0e-1e14-425a-b90e-7788fd653d3b")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.3194 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ANALOG_12"
+		(shape bidirectional)
+		(at 139.7 110.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "a97bac46-3c07-4747-8941-2ea05c4450e0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.3194 110.49 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ANALOG_01"
+		(shape bidirectional)
+		(at 139.7 82.55 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "b853aee2-1a8c-4374-86b3-d1e05b52fe41")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.3194 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ANALOG_13"
+		(shape bidirectional)
+		(at 139.7 113.03 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c411f49b-efe6-4f45-ab6a-7c5859006723")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.3194 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ANALOG_08"
+		(shape bidirectional)
+		(at 139.7 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d6045113-9381-43f4-a30a-3f4b622d8cd9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.3194 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ANALOG_03"
+		(shape bidirectional)
+		(at 139.7 87.63 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d7862d60-cf9b-41fb-b043-2599ee844718")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.3194 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ANALOG_11"
+		(shape bidirectional)
+		(at 139.7 107.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "da198806-9566-4137-9c79-6b10180d0047")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.3194 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ANALOG_07"
+		(shape bidirectional)
+		(at 139.7 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "eb7da02e-96a7-4485-9c5d-2a00bc7ecce9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.3194 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ANALOG_05"
+		(shape bidirectional)
+		(at 139.7 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f49f3db1-2973-4363-ab09-41ba8c8e7853")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 154.3194 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+)
