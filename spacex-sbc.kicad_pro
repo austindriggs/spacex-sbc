@@ -494,6 +494,87 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
+        "name": "Analog",
+        "pcb_color": "rgb(255, 14, 192)",
+        "priority": 4,
+        "schematic_color": "rgb(255, 14, 192)",
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
+        "name": "DDR",
+        "pcb_color": "rgb(33, 5, 255)",
+        "priority": 7,
+        "schematic_color": "rgb(33, 5, 255)",
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
+        "name": "DebugSoC",
+        "pcb_color": "rgb(255, 240, 0)",
+        "priority": 0,
+        "schematic_color": "rgb(255, 240, 0)",
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
+        "name": "Digital",
+        "pcb_color": "rgb(220, 16, 255)",
+        "priority": 3,
+        "schematic_color": "rgb(220, 16, 255)",
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
+        "name": "Flash",
+        "pcb_color": "rgb(0, 255, 19)",
+        "priority": 6,
+        "schematic_color": "rgb(0, 255, 19)",
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
+        "name": "GND",
+        "pcb_color": "rgb(100, 100, 100)",
+        "priority": 5,
+        "schematic_color": "rgb(100, 100, 100)",
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
+        "name": "Other",
+        "pcb_color": "rgb(3, 203, 255)",
+        "priority": 1,
+        "schematic_color": "rgb(3, 203, 255)",
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
+        "name": "Power",
+        "pcb_color": "rgb(255, 0, 0)",
+        "priority": 8,
+        "schematic_color": "rgb(255, 0, 0)",
+        "wire_width": 6
+      },
+      {
+        "bus_width": 12,
+        "line_style": 0,
+        "name": "Rpi",
+        "pcb_color": "rgb(255, 158, 0)",
+        "priority": 2,
+        "schematic_color": "rgb(255, 158, 0)",
+        "wire_width": 6
       }
     ],
     "meta": {
@@ -501,7 +582,52 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "Analog",
+        "pattern": "ANALOG*"
+      },
+      {
+        "netclass": "GND",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "Power",
+        "pattern": "+*"
+      },
+      {
+        "netclass": "DDR",
+        "pattern": "DDR*"
+      },
+      {
+        "netclass": "Flash",
+        "pattern": "FLASH*"
+      },
+      {
+        "netclass": "Digital",
+        "pattern": "DIGITAL*"
+      },
+      {
+        "netclass": "Rpi",
+        "pattern": "RPI*"
+      },
+      {
+        "netclass": "Other",
+        "pattern": "RS232*"
+      },
+      {
+        "netclass": "Other",
+        "pattern": "SOC_RS232*"
+      },
+      {
+        "netclass": "Other",
+        "pattern": "CAN*"
+      },
+      {
+        "netclass": "DebugSoC",
+        "pattern": "DEBUG_SOC*"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
