@@ -21885,7 +21885,7 @@
 			)
 		)
 	)
-	(global_label "DDR_CLK"
+	(global_label "DDR_CLKP"
 		(shape output)
 		(at 250.19 215.9 180)
 		(effects
