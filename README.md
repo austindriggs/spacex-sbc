@@ -5,6 +5,8 @@
 
 This repository contains the complete PCB architecture and design process for a custom Single Board Computer (SBC), prepared for a technical interview presentation for a PCB Design Engineer at SpaceX before I graduated from WVU. It walks through component package selection, power budget calculations, SoC and DDR3 memory constraint analysis, and 8-layer stackup optimization.
 
+> **Disclaimer:** This project is an independent personal design exercise created solely for educational and portfolio demonstration purposes. It is not affiliated with, endorsed by, sponsored by, or associated with Space Exploration Technologies Corp. (SpaceX). All trademarks, logos, and brand names mentioned herein belong to their respective owners.
+
 
 ## PRESENTATION
 
