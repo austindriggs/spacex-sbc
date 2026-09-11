@@ -3,7 +3,7 @@
 
 ## INTRODUCTION
 
-This is the rough PCB I used to present during my interview at SpaceX.
+This repository contains the complete PCB architecture and design process for a custom Single Board Computer (SBC), prepared for a technical interview presentation for a PCB Design Engineer at SpaceX before I graduated from WVU. It walks through component package selection, power budget calculations, SoC and DDR3 memory constraint analysis, and 8-layer stackup optimization.
 
 
 ## PRESENTATION
